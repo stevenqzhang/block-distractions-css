@@ -1,5 +1,5 @@
+/* Copy paste from https://gist.github.com/stevenqzhang/35c26c2862d8ccc7373f1e1ae5eb34318*/
 /*use https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb?hl=en* to map this to facebook.com/
-
 /*Hide message and notification count -> force me to go to messenger.com and facebook.com/notifications on regular basis instead*/
 .jewelCount {
   display: none;
