@@ -4,3 +4,12 @@
 .jewelCount {
   display: none;
 }
+
+/* Hide like notifications: https://github.com/zerobase/fb_hide_like_notifs/blob/master/content_script.css*/
+._33c[data-gt*='"notif_type":"like"'],
+._33c[data-gt*='"notif_type":"like_tagged"'],
+._33c[data-gt*='"notif_type":"page_new_likes"'],
+._33c[data-gt*='"notif_type":"open_graph_action_like"']
+{
+	display:none !important;
+}
