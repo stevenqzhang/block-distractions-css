@@ -1,11 +1,5 @@
-/* from https://robwu.nl/crxviewer/?crx=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Funread-message-count-hide%2Fjpcbhpcbhlmpnifidfhkomaaeifhiklk
 /* hides unread count
 
-[title^='Inbox ('] {
+.bsU {
     visibility: hidden;
-}
-[title^='Inbox (']:before {
-    content: 'Inbox';
-    font-weight: normal;
-    visibility: visible;
 }
