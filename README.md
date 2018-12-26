@@ -16,5 +16,7 @@ Install [this extension](https://chrome.google.com/webstore/detail/user-css/okpj
 # Optional reading
 
 https://medium.com/time-dorks/distractions-are-a-nuisance-but-infinity-pools-are-the-real-problem-e84122d62c0c 
+
 https://betterhumans.coach.me/how-to-set-up-your-iphone-for-productivity-focus-and-your-own-longevity-bb27a68cc3d8
+
 https://www.quora.com/What-are-the-most-productive-ways-to-spend-time-on-the-Internet/answer/Steven-Zhang-15
