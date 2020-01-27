@@ -5,3 +5,7 @@ display: none
 .msg-overlay-bubble-header__unread-count {
 display: none
 }
+
+.feed-card {
+  display: hidden
+}
