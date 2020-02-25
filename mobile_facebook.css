@@ -1,0 +1,8 @@
+/* Hide newsfeed, but not profile content for mobile.facebook.com ]
+
+Recommended browser: Kiwi, since it runs any chrome extension
+*/
+
+#m_newsfeed_stream {
+	display:none;
+}
