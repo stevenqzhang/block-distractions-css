@@ -1,28 +1,32 @@
 .p-channel_sidebar__badge {
-  display: none
+    display: none
 }
 
 .p-channel_sidebar__banner {
-  display: none
+    display: none
 }
 
 .p-channel_sidebar__banner--mentions {
-  display: none 
+    display: none
 }
 
 /* hide the entire sidebar */
 .p-channel_sidebar__static_list {
-  display: 
+    display: none
 }
 
 /* hide the names of the sidebars
 I prefer this over the top
 */
 .p-channel_sidebar__name {
-  display: none
+    display: none
 }
 
 /* hide the "unread mentions" red banner */
 .c-button-unstyled.p-channel_sidebar__banner.p-channel_sidebar__banner--mentions {
-  display: none
+    display: none
+}
+
+.c-button-unstyled.p-channel_sidebar__banner.p-channel_sidebar__banner--unreads {
+    display: none
 }
