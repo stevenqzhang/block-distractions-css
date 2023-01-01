@@ -9,3 +9,8 @@ display: none
 .feed-card {
   display: hidden
 }
+
+
+span.notification-badge.notification-badge--show {
+    display:none
+}
