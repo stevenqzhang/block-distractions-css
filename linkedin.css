@@ -14,3 +14,8 @@ display: none
 span.notification-badge.notification-badge--show {
     display:none
 }
+
+/* remove pop up message bubbles */
+.msg-overlay-conversation-bubble {
+  display:none
+}
